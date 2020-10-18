@@ -15,3 +15,5 @@ app.get("*", function (req, res) {
 module.exports = {
     htmlRoutes
 };
+
+// Just for the html routes
